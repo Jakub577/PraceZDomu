@@ -1,1 +1,52 @@
-/*tu nic nie ma
+.navi1{
+    height: 125px;
+    width: 400px;
+    padding-left: 21px;
+}
+.Coś1{
+    background-color: brown;
+}
+
+
+.zdj1{
+    width: 100%;
+}
+.gridty{
+    background-color: red;
+}
+.kartka{
+    padding-top: 70px;
+   
+}
+.coss12{
+    background-color:  rgb(122, 21, 21);
+    border-bottom: red;
+    text-align: center;
+}
+.tło{
+    background-color: rgba(75, 2, 2, 0.925);
+    color: rgb(168, 164, 164);
+    padding: 140px;
+
+    
+}
+.grid-item9 {
+    background-color: rgba(255, 255, 255, 0.8);
+   
+}
+  .grid-container9 {
+    display: grid;
+    grid-row-gap: 1px;
+    grid-template-columns: auto auto auto auto auto;
+ 
+
+  }
+  .navi3{
+    width: 100%;
+     height: 100%; 
+}  
+.tło2{
+    padding-left: 200px;
+    padding-right: 200px;
+    padding: 20px;
+}
