@@ -1,0 +1,144 @@
+.dodsa{
+    background-color: yellowgreen;
+    height: 10px;
+    margin-top: -20px;
+}
+.tło1{
+  width: 960px;
+    height: 450px;
+    margin-left: -10px;
+
+    margin-top: -30px;
+    
+}
+.tło2{
+    width: 102%;
+    height: 101%;
+    margin-top: -10px;
+    margin-left: -10px;
+   
+}
+body{
+    background-image: url("./Photos/Bez tytułu.png");
+    
+}
+.tło3{
+    display: inline;
+    width: 353px;
+    height: 450px;
+    margin-left: -1%;
+}
+.navi1{
+    font-size: 50px;
+}
+.navi2{
+    padding-left: 90px;
+    background-color: white;
+    margin-top: 23px;
+    border: 5px ridge red;
+}
+.navi3{
+padding: 30px;
+padding-bottom: -20px;
+margin-top: -20px;
+display: block;
+background-color: tomato;
+}
+.przycisk{
+    padding: 9px;
+    background-color: yellowgreen;
+}
+.posttt{
+    margin-left: 100px;
+    margin-right: 100px;
+    background-color: white;
+    border: 5px double red;
+    padding: 3px;;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 200px;
+    background-color: #f1f1f1;
+    display: block;
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: #000;
+    padding: 18px;
+    text-decoration: none;
+  }
+  li a:hover {
+    background-color: #555;
+    color: white;
+  }
+  .postt{
+      background-color: rgb(41, 160, 114);
+      box-shadow: 2px 2px 10px;
+      padding: 20px;
+      text-align: center;
+  }
+.jakistamt2q{
+    padding: 20px;
+    font-family: monospace;
+    font-size: 20px;
+    text-align: center;
+}
+.zdj12{
+    width: 679px;
+    height: 410px;
+}
+.meni{
+    text-align: center;
+    background-color: rgba(243, 242, 242, 0.884);
+}
+.jakistamtekst{
+    text-align: center;
+    padding: 20px;
+
+    font-size: 20px;
+    font-family: monospace;
+    border: red dotted 10px;
+}
+.anaanaan{
+    padding: 30px;
+}
+.zdlzdl{
+    text-align: center;
+    background-color: gray;
+    margin: 30px;
+    border: 1px solid  black ;
+    border-radius: 5%;
+    color: white;
+    padding: 10px;
+}
+.jakistamtekst12{
+    text-align: center;
+    padding: 20px;
+
+    font-size: 20px;
+    font-family: monospace;
+    border: red dashed 10px;
+}
+.jakistamtekst123{
+    text-align: center;
+    padding: 20px;
+
+    font-size: 20px;
+    font-family: monospace;
+    border: red groove 10px;
+}
+.jjjjjj{
+    text-align: center;
+    font-size: 30px;
+    padding: 20px;
+}
+.pustydiv{
+    background-color: rgba(255, 0, 0, 0.897);
+    height: 3px;
+    width: 100%;
+    margin-top: -4px;
+}
