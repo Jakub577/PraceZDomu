@@ -1,0 +1,88 @@
+
+.grid-container {
+  display: grid;
+  grid-template-columns: auto auto auto auto auto auto auto;
+  padding: 10px;
+}
+.grid-container2 {
+    display: grid;
+    grid-template-columns: auto auto auto auto auto auto ;
+    padding: 5px;
+  }
+.grid-item {
+  padding: 10px;
+  font-size: 30px;
+  text-align: center;
+}
+.inpucik{
+    width: 90%;
+    padding: 30px;
+    border-radius: 20px;
+    border-left: gray 1px solid;
+    text-align: right;
+    font-size: 90px;
+}
+.obrmaa{
+    border: 1px solid gray;
+    border-radius: 10px;
+    padding: 20px;
+    margin-left: 70px;
+    margin-right: 9px;
+}
+.butonik{
+    background-color: rgba(128, 128, 128, 0.425);
+    padding-top: 20px ;
+    padding-bottom: 20px;
+    border:  rgba(128, 128, 128, 0.425) ;
+    border-radius: 9%;
+    padding-left: 60px;
+    padding-right: 60px;
+}
+.butonik1{
+    background-color: rgba(138, 187, 175, 0.425);
+    padding-top: 20px ;
+    padding-bottom: 20px;
+    border:  rgba(128, 128, 128, 0.425) ;
+    border-radius: 9%;
+    padding-left: 60px;
+    padding-right: 60px;
+}
+.butonik3{
+    color: white;
+    background-color: rgb(88, 140, 209);
+    padding-top: 20px ;
+    padding-bottom: 20px;
+    border:  rgba(128, 128, 128, 0.425) ;
+    border-radius: 9%;
+    padding-left: 60px;
+    padding-right: 60px;
+}
+
+.ikonka{
+    padding: 10px;
+    padding-bottom: 20px;
+}
+.butonik6{
+    background-color: rgba(128, 128, 128, 0.425);
+    padding-top: 20px ;
+    padding-bottom: 20px;
+    border:  rgba(128, 128, 128, 0.425) ;
+    border-radius: 9%;
+    padding-left: 60px;
+    padding-right: 90px;
+    margin-left: -50px;
+}
+.butonik5{
+    background-color: rgba(128, 128, 128, 0.425);
+    padding-top: 20px ;
+    padding-bottom: 20px;
+    border:  rgba(128, 128, 128, 0.425) ;
+    border-radius: 9%;
+    padding-left: 60px;
+    padding-right: 100px;
+    margin-left: 39px;
+
+}
+.costam{
+    margin-bottom: -19px;
+}
