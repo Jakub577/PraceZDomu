@@ -1,0 +1,99 @@
+.grid {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    padding: 10px;
+    
+  }
+
+.tytuł1{
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+    margin-top: -3%;
+}
+
+.item{
+    border: white 1px solid ;
+    padding: 30px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin: 10%;
+}
+.ikona1{
+    float: right;
+}
+.book1{
+    color: grey;
+}
+.przyciskU{
+    background-color: white;
+    color: turquoise;
+    border: white;
+    float: right;
+}
+.przyciskE{
+    background-color: white;
+    color: turquoise;
+    border: white;
+    float: right;
+}
+
+.lista{
+    color: teal;
+    border: black 1px solid;
+    text-align: left;
+    margin: auto;
+    padding: 30px;
+    margin-left: 30%;
+    margin-right: 20%;
+    margin-top: 8%;
+}
+nav {
+    display: flex;
+align-items: center;
+justify-content: space-between;
+min-height: 8vh;
+background-color: rgb(8, 131, 115);
+font-family: 'Open Sans', sans-serif;
+box-shadow: 2px 2px 12px rgba(0,0,0,0.45);
+position: fixed;
+width: 100%;
+left: 0;
+top: 0;
+}
+
+
+
+.nav-links{
+    display: -webkit-flex;
+    width: 11%;
+    justify-content: right;
+  margin-right: 8px;
+}
+
+.nav-links a{
+    color: white;
+    text-decoration: none;
+    font-weight: inherit;
+    font-family: 'Open Sans', sans-serif;
+    letter-spacing: 1px;
+    font-size: 17px;
+    }
+    
+    .nav-links li{
+        list-style: none;
+    }
+
+
+
+li{
+    padding-left: 4%;
+}
+.none1{
+    border-bottom: white 1px solid;
+    display: flex;
+}
+
+.none2{
+    border-bottom: white 1px solid;
+    display: flex;
+    margin-left: -10px ;
+}
