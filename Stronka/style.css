@@ -1,0 +1,184 @@
+.logo{
+    margin-bottom: -50px;
+    height: 100px;
+    width: 300px;
+    padding: 10px;
+    float: left;
+}
+
+ul {
+    float: right;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    margin-top: -50px;    
+    margin-right:35% ;
+}
+  
+  li {
+    display: inline;
+}
+.navigacja1{
+    border: brown ridge 4px;
+    margin-top: 3px;
+
+    background-color: rgb(49, 46, 0);
+}
+.takiłancuch1{
+    border: brown   dotted 4px ;
+    margin-right: 75%;
+    margin-left: 25%;
+    padding-bottom: 50px;
+}
+.takiłancuch2{
+    border: brown   dotted 4px ;
+    margin-left: 75%;
+    margin-right: 25%;
+    padding-bottom: 50px;
+    float: right;
+    margin-top: -61px;
+    
+}
+body{
+    background-color: rgb(226, 215, 171);
+}
+.nagłówek1{
+    padding-top: 50px;
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(146, 96, 2);
+}
+.grid-container9 {
+    display: grid;
+    grid-row-gap: 1px;
+    grid-template-columns: auto auto auto auto ;
+    margin-left: 120px;
+    margin-right: 120px;
+    border: black double 9px;
+ 
+
+}
+  
+
+  .navi3{
+      height: 180px;
+      width: 263px;
+  }
+  .tekstonas{
+      padding: 70px;
+      text-align: center;
+      font-size: x-large;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+
+  .grid-container4{
+    display: grid;
+    grid-template-columns: auto auto;
+
+}
+.grid-item5{
+    margin-left: 33%;
+    
+}
+
+
+.kontakt1{
+    padding: 20px;
+    width: 200px;       
+}
+.kontakt2{
+    margin-left: 20%;
+   
+}
+.tekst30{
+    margin-left: 25%;
+}
+.przycisk1{
+    border-width: 1px;
+    border-style: solid;
+    border-color: #007bff; 
+    padding: 20px;
+    margin-left: 46%;
+}
+.przycisk2{
+    padding: 30px;
+}
+.chlebek1{
+    width: 200px;
+    height: 400px;
+}
+.przycisk3{
+    float: right;
+    margin-right: 35%;
+    margin-top: -90px;
+    color: white;
+    background-color: black;
+    padding-left: 30px;
+    padding-right: 30px;
+    font-size: 20px;
+}
+.zofertyh1{
+    text-align: center;
+    color: rgb(83, 49, 3);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.opis1{
+   text-align: center;
+   font-size: x-large;
+}
+.pustydiv{
+    height: 90px;
+}
+.ostanie{
+    background-color: black;
+    border-top: burlywood double 20px;
+  margin-bottom: -30px;
+}
+.nana{
+    margin-left: 45%;
+}
+.zdjj{
+    width: 80%;
+    height: 500px;
+    margin-left: 140px;
+    border: double black 3px ;
+}
+.costam{
+    background-color: white;
+}
+.img11{
+    padding-top: 150px;
+    padding-left: 43%;
+}
+.tekst12{
+    color: gray;
+    padding-left: 49%;
+    padding-bottom: 100px;
+}
+.nagłówke123{
+    text-align: center;
+    padding: 30px;
+}
+
+.kontakt6{
+    margin-left: 10%;
+    padding: 20px;
+    width: 300px;
+}
+.procenty{
+    padding-left: 70%;
+    margin-top: -60px;
+    font-size: 40px;
+}
+.pustydiv1{
+    height: 80px;
+}
+.przycisk11 {
+padding: 31px;
+background-color: rgb(23, 139, 124);
+margin-left: 10px ;
+margin-top: -40px;
+}
+.przycisk12:hover{
+    background-color: blueviolet;
+}
