@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Document</title>
+</head>
+<body>
+      <img class="img2" src="db8e0646-3afd-4428-8fe1-c3aa635004b7.jpg" alt="">
+      <div class="divZOverflowem">
+        <h1>MENU:</h1>
+        <p class="paragrafZMenu"><span> DWIE DOWOLNE PIZZE PO 29,90 ZŁ</span></p>
+        <p class="paragrafZMenu"><span>TRADYCYJNA PIZZA WŁOSKA</span></p>
+        <p class="paragrafZMenu"><span>MARGHERITA</span></p>
+        <p class="paragrafZMenu"><span>MEXICANA</span></p>
+        <p class="paragrafZMenu"><span>PIACERE</span> </p>
+        <p class="paragrafZMenu"><span>CARPE DIEM</span></p>
+        <p class="paragrafZMenu"><span>VERDE</span></p>
+        <p class="paragrafZMenu"><span>CORSICA</span></p>
+        <p class="paragrafZMenu"><span> DWIE DOWOLNE PIZZE PO 29,90 ZŁ</span></p>
+        <p class="paragrafZMenu"><span>TRADYCYJNA PIZZA WŁOSKA</span></p>
+        <p class="paragrafZMenu"><span>MARGHERITA</span></p>
+        <p class="paragrafZMenu"><span>MEXICANA</span></p>
+        <p class="paragrafZMenu"><span>PIACERE</span> </p>
+        <p class="paragrafZMenu"><span>CARPE DIEM</span></p>
+        <p class="paragrafZMenu"><span>VERDE</span></p>
+        <p class="paragrafZMenu"><span>CORSICA</span></p>
+
+        <p class="paragrafZMenu"><span>TRADYCYJNA PIZZA WŁOSKA</span></p>
+        <p class="paragrafZMenu"><span>MARGHERITA</span></p>
+
+        </div>
+     
+        <div id="divZOverflowem2">
+            <div class="pustydiv"></div>
+            <nav>
+            <input type="text" placeholder="Wyszukaj pizze...">
+            <label for="sortuj">Sortuj wdg.</label>
+            <select id="sortuj">
+                <option>Nazwy</option>
+                <option>Rozmiaru</option>
+                <option>Ocen</option>
+                <option>Czasu dostawy</option>
+              </select>
+            </nav>
+            <div>
+                <h1>Polecane w tym mięsiącu</h1>
+                <img src="" alt="">
+                <div class="grid-container">
+                    <div><img class="obraz" src="pobrany plik.jpg" alt=""></div>
+                    <div class="text"><h2>MARGHERITA</h2>
+                    <p> grillowanymi pieczarkami, piklami, sałatą i sosem</p>
+                </div>
+                <div><img class="obraz" src="CARPE DIEM.jpg" alt=""></div>
+                <div ><h2>CARPE DIEM</h2>
+                   <p class="text"> ananas, bazylia, boczek, cebula czerwona, chorizzo </p>
+                </div>
+                <div><img class="obraz" src="CORSICA.jpg" alt=""></div>
+                <div class="text"><h2>CORSICA</h2>
+                   <p> bazylia, boczek, cebula sałatą i sosem</p>
+                </div>
+                </div>
+                
+            </div>
+            <h1 class="nagh">ZAMÓWIENIE:</h1>
+            <div class="grid-container">
+                <div id="imie1"> <input type="text" id="imie" value=""  placeholder="imię"></div>
+
+                <div> <input type="text" id="Nazwisko" value="" placeholder="Nazwisko"></div>
+            </div>
+            <div class="grid-container">
+                <div id="nwm"> <input type="text" id="NumerTelefonu" name="imię" placeholder="Numer tel."></div>
+
+                <div> <input type="text" id="E-mail"  placeholder="E-mail"></div>
+            </div>
+            <div class="jde"></div>
+            <div>
+                <label class="labelpizzaa" onchange="Wybierz(pizza)" for="wybierzPizza">Wybierz Pizze:</label>
+                 <select id="wybierzPizza">
+                     <option>↓↓↓</option>
+                     <option>CARPE DIEM</option>
+                     <option>VERDE</option>
+                     <option>MEXICANA</option>
+                     <option>MARGHERITA</option>
+                     <option>CARPE DIEM</option>
+                     <option>VERDE</option>
+                     <option>MEXICANA</option>
+                     <option>MARGHERITA</option>
+                   </select>
+             </div>
+            <div class="pustydiv"></div>
+            <textarea  value="" id="tekst30" cols="99" rows="10" placeholder="Dodatkowe informacje dla sprzedakącego" ></textarea>
+            <div class="przycisk2"><button class="przycisk1" onclick="walidacja1() ,walidacja2(),walidacja3(),walidacja4(val) ">WYŚLJI ZAMÓWIENIE</button></div>
+        </div>
+        
+
+        <script src="main.js"></script>
+</body>
+</html>
+
+<input type="text" id="imie">
+

@@ -1,0 +1,115 @@
+.img1{
+    width: 100%;
+    margin-top: 5%;
+   
+}
+.img2{
+    position: absolute;
+    width: 101%;
+    height: 20%;
+    margin-top: -2%;
+    margin-left: -2%;
+    border-bottom: groove black 4px;
+}
+.divZOverflowem{
+    padding-bottom: 17%;
+    overflow-y:scroll;
+    overflow-x:hidden;
+    height:300px ;
+    width:20%;
+    min-width:148px;
+    position:relative;
+    left:3px;
+    top: 110px;
+}
+.paragrafZMenu{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    border-left: blue 3px double;
+    padding-left: 30px;
+}
+#divZOverflowem2{
+    padding-bottom: 17%;
+    overflow-y:scroll;
+    overflow-x:hidden;
+    height:438px ;
+    width:20%;
+    min-width:80%;
+
+    float: right;
+    margin-top: -40%;
+    margin-right: -0.5%;
+    top: -6px;
+}
+nav{
+    background-color: skyblue;
+    padding: 2%;
+    text-align: center;
+    margin-left: -0.9%;
+}
+.pustydiv{
+    height: 27%;
+}
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto ;
+    grid-gap: 10px;
+
+    padding: 10px;
+  }
+  
+
+.przycisk2{
+    padding: 30px;
+}
+.przycisk1{
+    border-width: 1px;
+    border-style: solid;
+    border-color: #007bff; 
+    padding: 20px;
+    margin-left: 46%;
+}
+.grid-item5{
+    margin-left: 93%;
+}
+
+
+#tekst30{
+    margin-left: 19%;
+}
+.kontakt1{
+    padding: 20px;
+    width: 200px;       
+}
+
+.labelpizzaa{
+    margin-left: 27%;
+    font-size: 25px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.obraz{
+    width: 300px;
+    height: 300px;
+    border-left: blue 4px double;
+    padding-left: 6px;
+}
+body{
+    background-color: rgb(207, 197, 102);
+}
+h1{
+    text-align: center;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.obraz{
+    margin-right: -300px;
+}
+span:hover{
+    color: rgb(7, 124, 170);
+}
+.jde{
+    height: 40px;
+}
+#imie{
+    padding: 20px;
+    width: 200px;   
+}
