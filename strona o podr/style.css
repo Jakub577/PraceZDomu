@@ -1,0 +1,139 @@
+
+.tekstt1{
+    text-align: center;
+    color: olive;
+    font-size: 100px;
+    font-family: monospace;
+    float: right;
+}
+.tekstt2{
+    text-align: center;
+    float: right;
+    color: white;
+    
+}
+#obrazz{
+    width: 100%;
+    height: 490px;
+}
+.tłocza{
+    background-color: black;
+}
+.dvv{
+    background-color: rgb(43, 43, 43);
+    border-right: solid 3px rgb(70, 69, 69);
+    padding: 10px;
+    float: left;
+    padding-bottom: 670px;
+    padding-right: 80px;
+    margin-top: -10px;
+}
+.ddll{
+    background-color: rgb(54, 54, 54);
+    margin-top: -31px;
+}
+.obraz1{
+    width: 300px;
+    float: right;
+    height: 200px;
+    padding-right: 40px;
+}
+.obraz2{
+    width: 300px;
+    height: 200px;
+    float: left;
+    padding-top: 60px;
+    padding-right: 50px;
+    padding-left: 30px;
+}
+.obraz3{
+    width: 300px;
+    height: 200px;
+}
+.tekst1{
+    color: rgb(196, 196, 196);
+padding-top: 50px;
+padding-bottom: 60px;
+}
+.tekst2{
+ padding-top: 70px;
+ padding-bottom: 130px;
+ color: rgb(196, 196, 196);
+ 
+}
+.nanan{
+    margin-left: 200px;
+    border-top: 3px solid white;
+}
+.was{
+    color: rgb(241, 241, 160);
+   font-family: inherit;
+   font-size: 34px;
+   padding: 15px;
+}
+.przzy{
+    background-color: rgb(252, 170, 48);
+    padding: 10px;
+    border: groove 2px white;
+    border-radius: 10%;
+    margin-left: 130px;
+}
+.allal{
+    border-left: 3px solid orange;
+    color: white;
+    padding-left: 20px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+.minin1{
+    width: 10px;
+    float: left;
+    padding-right: 10px;
+}
+.minin2{
+    width: 15px;
+    float: left;
+    padding-right: 10px;
+}
+.colorek{
+    color: orange;
+}
+.kkkkkkk{
+    background-color: black;
+    padding-left: 110px;
+    padding-right: 110px;
+}
+.przycisklll{
+    background-color: black;
+    color: white;
+    border-bottom: solid 4px white;
+    border-left: black solid;
+    border-top: black solid;
+    border-right: black solid;
+    font-size: 20px;
+    color: orange;
+   
+}
+.przycisklll1{
+    background-color: black;
+    color: white;
+    border-bottom: solid 4px white;
+    border-left: black solid;
+    border-top: black solid;
+    border-right: black solid;
+    margin-left: 300px;
+    font-size: 20px;
+}
+.jjjj{
+    color: white;
+}
+li{
+    margin-left: 140px;
+    color: white;
+}
+.jakkaskska{
+    color: skyblue;
+}
+.pustydiv{
+    padding: 25px;
+}
