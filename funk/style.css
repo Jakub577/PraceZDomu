@@ -1,0 +1,13 @@
+body{
+    background-color: aquamarine;
+}
+.pargraf1{
+    background-color: black;
+    color: white;
+    text-align: center;
+    border: solid red 3px;
+}
+#przycisk1{
+   background-color: aqua; 
+  border: rgb(1, 1, 29) 1px solid;
+}
